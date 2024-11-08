@@ -1,0 +1,19 @@
+.tableHistory{
+    border-collapse: collapse;
+    margin: 20px;
+}
+.point{
+    border: 1px solid black;
+    padding: 0 50px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    line-height: 2;
+}
+.tableHead{
+    background-color: rgb(40, 40, 40);
+    color: white;
+    text-align: center;
+}
+.tableBody:nth-child(2n) {
+    background-color: rgb(187, 187, 187);
+}

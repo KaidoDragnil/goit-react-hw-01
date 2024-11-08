@@ -1,6 +1,19 @@
 .status{
-    color:red;
+font-size: 12px;
+}
+.online{
+    color:green;
+}
+.offline{
+    color: red;
 }
 .name{
-    color: red;
+    margin-top: 10px;
+    font-size: 18px;    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
 }
